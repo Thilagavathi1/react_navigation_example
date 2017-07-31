@@ -26,9 +26,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   box: {
-    backgroundColor: 'green',
-    borderWidth: 2,
-    borderColor: 'steelblue',
+    backgroundColor: 'violet',
     borderRadius: 20,
     padding:10,
   }

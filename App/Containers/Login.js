@@ -30,8 +30,6 @@ const styles = StyleSheet.create({
   },
   box: {
     backgroundColor: 'skyblue',
-    borderWidth: 2,
-    borderColor: 'steelblue',
     borderRadius: 20,
     padding:10
   }
